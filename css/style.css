@@ -66,3 +66,11 @@ main{
     padding: 20px;
     z-index: 5;
 }
+footer{
+    background-color: #d524;
+    position: fixed;
+    width: 100%;
+    height: 30px;
+    bottom: 0;
+
+}
